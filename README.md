@@ -6,7 +6,7 @@
  
 </div>
 
-- 👨‍💻 Innovative front-end development experience of building and maintaining responsive websites and applications. Hands on experience in creating and designing interactive UI for client-facing landing pages and mobile-first websites.
+- 👨‍💻 <b>Innovative front-end development experience of building and maintaining responsive websites and applications. Hands on experience in creating and designing interactive UI for client-facing landing pages and mobile-first websites.</b>
 
 
 <br>
